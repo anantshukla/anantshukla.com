@@ -15,10 +15,8 @@ function Honors() {
             <span className="end-year">2019</span>
           </div>
           <div className="listing-description">
-            <p>For the presentation of
-              <a href="https://jon.tsp.io/papers/mobicom14-phaser.pdf">
-                Phaser: Enabling Phased Array Signal Processing on Commodity WiFi Access Points
-              </a> at MobiCom '14 in Maui, Hawaii
+            <p>
+              para
             </p>
           </div>
         </div>
