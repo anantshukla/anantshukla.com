@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-function Education() {
+function FrameworksAndTools() {
   return (
     <div className="section hobbies">
       <h2 className="section-header">Frameworks and Tools</h2>
@@ -14,6 +14,7 @@ function Education() {
           <li className="hobby">Hyperledger Fabric</li>
           <li className="hobby">MATLAB</li>
           <li className="hobby">Flask</li>
+          <li className="hobby">Firebase</li>
           <li className="hobby">AWS</li>
           <li className="hobby">Google Cloud</li>
         </ul>
@@ -21,4 +22,4 @@ function Education() {
     </div>
   )
 }
-export default Education;
+export default FrameworksAndTools;

@@ -13,10 +13,10 @@ function ProfessionalExperience() {
             <span className="start-month">December </span>
             <span className="start-year">2019 </span>
             <span className="date-separator">- </span>
-            <span className="end-month">August </span>
+            <span className="end-month">July </span>
             <span className="end-year">2020</span>
           </div>
-          <div className="listing-type">Co-Founder, Lead Software Developer</div>
+          <div className="listing-type">Co-Founder, Software Developer Lead</div>
           <div className="listing-description">
             <p>
               ZALT aims to leverage technology to transform the supply chain industry. ZALT is building an innovative digital infrastructure and connecting it with drones to analyze and optimize the movement and delivery of packages.
@@ -24,7 +24,7 @@ function ProfessionalExperience() {
           </div>
           <div className="listing-description">
             <p>
-              I Developed a routing software which includes a Web Portal and a Mobile App which helps Routing the fleet of riders and optimize their Routes.
+              I was responsible of developing a routing software which includes a Web Portal and a Mobile App which helps Routing the fleet of riders and optimize their Routes. This software was later bought by Bylane Logistic Pvt Ltd.
             </p>
           </div>
         </div>
@@ -38,10 +38,10 @@ function ProfessionalExperience() {
             <span className="end-month">June </span>
             <span className="end-year">2020</span>
           </div>
-          <div className="listing-type">Team Leader | Lead Embedded Systems | Computer Vision | Control Systems Engineer</div>
+          <div className="listing-type">Team Leader | Lead Embedded Systems | Distributed Systems | Computer Vision | Control Systems Engineer</div>
           <div className="listing-description">
             <p>
-              Developed an Amphibious Reconnaissance Vehicle capable of Aerial, Underwater and sea level operations for the Defence Research and Development Organisation (DRDO). Project funded by DRDO and SRM Institute of Science and Technology. 2nd position in DRDO-DRUSE regionals 2018. 5th position in DRDO-DRUSE nationals 2018. Overall cash prize of 1 Lakh Rupees.
+              Developed an Amphibious Reconnaissance Vehicle capable of Aerial, Underwater and sea level operations for the Defence Research and Development Organisation (DRDO). Project funded by DRDO and SRM Institute of Science and Technology. 2nd position in DRDO-DRUSE regionals 2018. 5th position in DRDO-DRUSE nationals 2018. Overall cash prize of over 1.5 Lakh Indian Rupees.
             </p>
           </div>
           <div className="listing-description">
@@ -62,7 +62,7 @@ function ProfessionalExperience() {
             <span className="end-month">June </span>
             <span className="end-year">2020</span>
           </div>
-          <div className="listing-type">Embedded Systems Engineer | Team Manager</div>
+          <div className="listing-type">Control Systems Engineer | Embedded Systems Engineer | Team Manager</div>
           <div className="listing-description"><p>Best Technical Design in AUVSI SUAS 2019. Received cash prize 1450 USD. Competed in the 2018 and 2017 editions as well. The competition is held in Patuxent River Naval Airbase in Maryland, USA.</p></div>
           <div className="listing-description"><p>Problem statement requires the team to develop a UAV for a 20 mile mission capable of autonomously taking off and completing a way-point mission followed by obstacle avoidance and an ODLC task which requires image processing, followed by an autonomous detection of a lost hiker, and dropping a payload UGV (Unmanned Ground Vehicle) which is supposed to drive to the lost hiker and deliver relief material. At the end of the mission, the UAV should land back at the designated runway autonomously.</p></div>
         </div>
@@ -80,20 +80,13 @@ function ProfessionalExperience() {
             <p>
               Worked on efficient data structures, like Red-Black Trees for the understanding of the Linux Scheduler.
             </p>
-          </div>
-
-          <div className="listing-description">
             <p>
               Worked on the Lifecycle of development of a Software.
             </p>
-          </div>
-
-          <div className="listing-description">
             <p>
               Worked on GUI Development of a War Like Simulation Software on QtCreator(C++)
             </p>
           </div>
-
         </div>
       </div>
     </div>

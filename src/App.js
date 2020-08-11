@@ -11,13 +11,11 @@ import ResearchPublications from './ResearchPublications';
 import ProfessionalExperience from './ProfessionalExperience';
 import Honors from './Honors';
 import Projects from './Projects';
-
-
+import Hobbies from './Hobbies';
 
 function App() {
   return (
     <div className="resume">
-
       <Header />
       <div style={{paddingTop: "10vh"}} />
       <Education />
@@ -28,19 +26,7 @@ function App() {
       <ProfessionalExperience />
       <Projects />
       <Honors />
-
-      <div className="section hobbies">
-        <h2 className="section-header">Hobbies</h2>
-        <div className="content">
-          <ul className="hobbies-list">
-            <li className="hobby">Rock climbing</li>
-            <li className="hobby">Entrepreneurship</li>
-            <li className="hobby">Squash</li>
-            <li className="hobby">Diving</li>
-            <li className="hobby">Open-source</li>
-          </ul>
-        </div>
-      </div>
+      <Hobbies />
     </div>
   );
 }

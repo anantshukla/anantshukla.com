@@ -12,7 +12,9 @@ function Header() {
           <li className="hobby">Cryptography</li>
           <li className="hobby">Blockchain</li>
           <li className="hobby">IoT</li>
-          <li className="hobby">Embedded System</li>
+          <li className="hobby">UI/UX</li>
+          <li className="hobby">Databases</li>
+          <li className="hobby">Embedded Systems</li>
           <li className="hobby">Data Science</li>
           <li className="hobby">Entrepreneurship</li>
         </ul>

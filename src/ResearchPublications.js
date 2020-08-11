@@ -20,7 +20,7 @@ function ResearchPublications() {
             <br />
             Any forgery / modifications to the grades or credentials submitted by the student are easily detected as the original credentials are stored in the Blockchain which are immutable records.
             <br />
-            <a href="https://anantshukla.com/files/Academic Credential Verification Technique Using Blockchain.pdf">Link</a>
+            Paper: <a href="https://anantshukla.com/files/Academic Credential Verification Technique Using Blockchain.pdf">Link</a>
           </p></div>
         </div>
 

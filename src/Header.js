@@ -23,12 +23,12 @@ function Header() {
 
           <div className="member-url-resource url-portfolio">
             <span className="label">LinkedIn</span>
-            <span className="content"><a href="https://www.linkedin.com/in/theanantshukla/>" rel="noopener noreferrer" target="_blank">theanantshukla</a></span>
+            <span className="content"><a href="https://www.linkedin.com/in/theanantshukla/" rel="noopener noreferrer" target="_blank">theanantshukla</a></span>
           </div>
 
           <div className="member-url-resource url-portfolio">
             <span className="label">GitHub</span>
-            <span className="content"><a href="https://github.com/anantshukla>" rel="noopener noreferrer" target="_blank">anantshukla</a></span>
+            <span className="content"><a href="https://github.com/anantshukla" rel="noopener noreferrer" target="_blank">anantshukla</a></span>
           </div>
 
           <div className="phone-number phone-mobile">
@@ -44,7 +44,7 @@ function Header() {
 
           <div className="member-url-resource url-portfolio">
             <span className="label">Portfolio</span>
-            <span className="content"><a href="https://anantshukla.com>" rel="noopener noreferrer" target="_blank">anantshukla.com</a></span>
+            <span className="content"><a href="https://anantshukla.com" rel="noopener noreferrer" target="_blank">anantshukla.com</a></span>
           </div>
         </div>
       </div>
