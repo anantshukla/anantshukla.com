@@ -30,6 +30,21 @@ function ProfessionalExperience() {
         </div>
 
         <div className="position">
+          <div className="listing-title">SRM Unmanned Aerial Vehicle (SRM UAV)</div>
+          <div className="listing-title">Chennai, India</div>
+          <div className="dates">
+            <span className="start-month">August </span>
+            <span className="start-year">2016 </span>
+            <span className="date-separator">- </span>
+            <span className="end-month">June </span>
+            <span className="end-year">2020</span>
+          </div>
+          <div className="listing-type">Team Manager | Embedded Systems Engineer | Distributed Systems</div>
+          <div className="listing-description"><p>Best Technical Design in AUVSI SUAS 2019. Received cash prize 1500 USD. Competed in the 2018 and 2017 editions as well. The competition is held in Patuxent River Naval Airbase in Maryland, USA.</p></div>
+          <div className="listing-description"><p>Problem statement requires the team to develop a UAV for a 20 mile mission capable of autonomously taking off and completing a way-point mission followed by obstacle avoidance and an ODLC task which requires image processing, followed by an autonomous detection of a lost hiker, and dropping a payload UGV (Unmanned Ground Vehicle) which is supposed to drive to the lost hiker and deliver relief material. At the end of the mission, the UAV should land back at the designated runway autonomously.</p></div>
+        </div>
+
+        <div className="position">
           <div className="listing-title">SRM TEAM ODYSSEY, Chennai, India</div>
           <div className="dates">
             <span className="start-month">December </span>
@@ -51,21 +66,6 @@ function ProfessionalExperience() {
           </div>
         </div>
 
-
-        <div className="position">
-          <div className="listing-title">SRM Unmanned Aerial Vehicle (SRM UAV)</div>
-          <div className="listing-title">Chennai, India</div>
-          <div className="dates">
-            <span className="start-month">August </span>
-            <span className="start-year">2016 </span>
-            <span className="date-separator">- </span>
-            <span className="end-month">June </span>
-            <span className="end-year">2020</span>
-          </div>
-          <div className="listing-type">Control Systems Engineer | Embedded Systems Engineer | Team Manager</div>
-          <div className="listing-description"><p>Best Technical Design in AUVSI SUAS 2019. Received cash prize 1450 USD. Competed in the 2018 and 2017 editions as well. The competition is held in Patuxent River Naval Airbase in Maryland, USA.</p></div>
-          <div className="listing-description"><p>Problem statement requires the team to develop a UAV for a 20 mile mission capable of autonomously taking off and completing a way-point mission followed by obstacle avoidance and an ODLC task which requires image processing, followed by an autonomous detection of a lost hiker, and dropping a payload UGV (Unmanned Ground Vehicle) which is supposed to drive to the lost hiker and deliver relief material. At the end of the mission, the UAV should land back at the designated runway autonomously.</p></div>
-        </div>
         <div className="position">
           <div className="listing-title">WESEE : Weapons And Electronics Systems Engineering Establishment, Ministry of Defence: Indian Navy, New Delhi, India</div>
           <div className="listing-type">Intern</div>
