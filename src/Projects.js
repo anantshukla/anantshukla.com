@@ -74,10 +74,10 @@ function Projects() {
           </div>
           <div className="listing-description">
             <p>
-              In the three years I took part in the competition along with my team SRM UAV; I have been the Safety Pilot, Team Captain, Ground Control Station Operator and Lead Embedded Systems
+              In all the years I took part in the competition along with my team SRM UAV; I have been the Safety Pilot, Team Captain, Ground Control Station Operator and Lead Embedded Systems
             </p>
             <p>
-              In the SUAS 2019, I was handling the Ground Control Station. Here, I had to work on the path planner, Communication Links, Integration of all the sensors (like LiDAR, Servos, GPS, Microcontroller, etc) with the UAV, and make sure all were working as per requirements and a lot more.
+              In the SUAS 2019, I was handling the Ground Control Station. Here, I had to work on the path planner, Communication Links, Integration of all the sensors (like LiDAR, Servos, GPS, Microcontrollers, etc) with the UAV, and make sure all were working as per requirements and a lot more.
             <br/>
               Moreover, being the team captain I had to overlook the flight pit and made sure all tasks were completed in accordance to the requirements as given in the problem statement.
             </p>
