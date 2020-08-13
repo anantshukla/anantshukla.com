@@ -77,7 +77,7 @@ function Projects() {
               In all the years I took part in the competition along with my team SRM UAV; I have been the Safety Pilot, Team Captain, Ground Control Station Operator and Lead Embedded Systems
             </p>
             <p>
-              In the SUAS 2019, I was handling the Ground Control Station. Here, I had to work on the path planner, Communication Links, Integration of all the sensors (like LiDAR, Servos, GPS, Microcontrollers, etc) with the UAV, and make sure all were working as per requirements and a lot more.
+              In the SUAS 2019, I was handling the Ground Control Station. Here, I had to work on the path planner, Communication Links, Integration of all the sensors (like LiDAR, Servos, GPS, Microcontrollers, etc) with the UAV, and make sure all were working as per requirements and a lot more. I also programmed the Flight Termination System (FTS) which is a safety requirement of the competition which handles the case of loss of communication or malfunctions of the UAV, its recovery and mitigation.
             <br/>
               Moreover, being the team captain I had to overlook the flight pit and made sure all tasks were completed in accordance to the requirements as given in the problem statement.
             </p>
