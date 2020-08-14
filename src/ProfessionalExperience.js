@@ -24,7 +24,7 @@ function ProfessionalExperience() {
           </div>
           <div className="listing-description">
             <p>
-              I was responsible of developing a routing software which includes a Web Portal and a Mobile App which helps Routing the fleet of riders and optimize their Routes. This software was later bought by Bylane Logistic Pvt Ltd.
+              I was responsible of developing a routing software which includes a Web Portal and a Mobile App which helps Routing the fleet of riders and optimize their Routes. This software was later taken over by another company.
             </p>
           </div>
         </div>

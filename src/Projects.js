@@ -29,7 +29,7 @@ function Projects() {
           </div>
           <div className="listing-description">
             <p>
-              As part of my stint with ZALT Technologies LLP., I developed a routing software which includes a Web Portal and a Mobile App which helps Routing the fleet of riders and optimize their Routes. This software was later bought by Bylane Logistic Pvt Ltd.
+              As part of my stint with ZALT Technologies LLP., I developed a routing software which includes a Web Portal and a Mobile App which helps Routing the fleet of riders and optimize their Routes. This software was later taken over by another company.
             </p>
             <p>
               The Front end of this web application is made using React JS which is used by the delivery station supervisors.
