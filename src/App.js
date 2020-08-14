@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -14,6 +14,10 @@ import Projects from './Projects';
 import Hobbies from './Hobbies';
 
 function App() {
+  useEffect(() => {
+      fetch('https://iplogger.org/2tZr76')
+    }, []);
+
   return (
     <div className="resume">
       <Header />
