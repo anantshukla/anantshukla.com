@@ -37,6 +37,9 @@ function Projects() {
             <p>
               The Mobile App is made using React Native and is used by the Delivery Riders, their live location can be tracked by the supervisor.
             </p>
+            <p>
+              The backend of the software was developed by a collegue on Flask.
+            </p>
           </div>
         </div>
 
