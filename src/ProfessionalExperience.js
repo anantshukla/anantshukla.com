@@ -44,7 +44,7 @@ function ProfessionalExperience() {
           <div className="listing-description"><p>Problem statement requires the team to develop a UAV for a 20 mile mission capable of autonomously taking off and completing a way-point mission followed by obstacle avoidance and an ODLC task which requires image processing, followed by an autonomous detection of a lost hiker, and dropping a payload UGV (Unmanned Ground Vehicle) which is supposed to drive to the lost hiker and deliver relief material. At the end of the mission, the UAV should land back at the designated runway autonomously.</p></div>
           <div className="listing-description">
             <p>
-               I have been the Safety Pilot, Team Captain, Ground Control Station Operator and Lead Embedded Systems. I have held both Technical roles as well as well as Management Roles wherein had to manage the team and be the Point of Contact for the team with sponsors and college authorities.
+               I have been the Safety Pilot, Team Captain for SUAS 2019, Ground Control Station Operator and Lead Embedded Systems. I have held both Technical roles as well as well as Management Roles wherein had to manage the team and be the Point of Contact for the team with sponsors and college authorities.
             </p>
           </div>
         </div>
