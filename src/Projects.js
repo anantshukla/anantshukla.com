@@ -106,6 +106,26 @@ function Projects() {
         </div>
 
         <div className="honor">
+          <div className="listing-title">Design and Architecture of an Amphibious Reconnaissance Vehicle capable of Aerial and Underwater Operations</div>
+          <div className="dates">
+            <span className="end-month">May </span>
+            <span className="end-year">2018</span>
+          </div>
+          <div className="listing-type">National Rank 5, DRDO Robotics and Unmanned Systems Exposition (DRUSE) 2018</div>
+          <div className="listing-description">
+            <p>
+              Developed an Amphibious Reconnaissance Vehicle capable of Aerial, Underwater and sea level operations for the Defence Research and Development Organisation (DRDO). Project funded by DRDO and SRM Institute of Science and Technology. 2nd position in DRDO-DRUSE regionals 2018. 5th position in DRDO-DRUSE nationals 2018. Overall cash prize of over 1.5 Lakh Indian Rupees.
+            </p>
+            <p>
+              Developed systems for an Unmanned Ground Vehicle (UGV) which is capable of autonomous navigation for Intelligent Ground Vehicle Competition 2019 (IGVC) in Oakland, USA
+            </p>
+            <p>
+              Comprehensive Design Report: <a href="https://anantshukla.com/files/Amphibious Reconnaissance Vehicle - DRDO DRUSE 2018.pdf">DRDO DRUSE 2018-CDR</a>
+            </p>
+          </div>
+        </div>
+
+        <div className="honor">
           <div className="listing-title">Sensor Glove</div>
           <div className="dates">
             <span className="end-month">June </span>
