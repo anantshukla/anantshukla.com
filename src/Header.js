@@ -31,13 +31,13 @@ function Header() {
             <span className="content"><a href="https://github.com/anantshukla" rel="noopener noreferrer" target="_blank">anantshukla</a></span>
           </div>
           {
-          	/*
-          <div className="phone-number phone-mobile">
-            <span className="label">Mobile</span>
-            <span className="content">+91 9958330254</span>
-          </div>
+          /*
+            <div className="phone-number phone-mobile">
+              <span className="label">Mobile</span>
+              <span className="content">+91 9958330254</span>
+            </div>
           */
-      }
+          }
 
           <div className="email-address">
             <span className="label">Email</span>

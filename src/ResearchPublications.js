@@ -52,7 +52,7 @@ function ResearchPublications() {
             Developed an end-to-end solution for resource allocation for a Swarm of UAV's deployed in HADR (Humanitarian  Aid and Disaster Relief Operations) along with a modified hybrid VTOL airframe which is used for Delivery of Relief Packages.
             <br />This was developed for Indian Air Force Swarm Competition (Mehar Baba prize competition). We cleared the first two stages, but dropped out due to unavailibility of funds.
             <br />
-            Paper: <a href="https://anantshukla.com/files/Swarm Optimization of Multiple UAV’s for Resource Allocation in Humanitarian Aid and Disaster Relief Operations.pdf">Link</a>.
+            Paper: <a href="https://anantshukla.com/files/Swarm_Optimization_UAV_HADR.pdf">Link</a>.
           </p>
           </div>
         </div>
