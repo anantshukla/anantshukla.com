@@ -1,36 +1,23 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import './App.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
-
-import Header from './Header';
-import Education from './Education';
-import Skills from './Skills';
-import Languages from './Languages';
-import FrameworksAndTools from './FrameworksAndTools';
-import ResearchPublications from './ResearchPublications';
-import ProfessionalExperience from './ProfessionalExperience';
-import Honors from './Honors';
-import Projects from './Projects';
-import Hobbies from './Hobbies';
+import Contact from './components/Contact';
+import Skills from './components/Skills';
+import Experience from './components/Experience';
+import Education from './components/Education';
+import Projects from './components/Projects';
+import Certifications from './components/Certifications';
+import Achievements from './components/Achievements';
 
 function App() {
-  useEffect(() => {
-      fetch('https://iplogger.org/2tZr76')
-    }, []);
-
   return (
     <div className="resume">
-      <Header />
-      <div style={{paddingTop: "10vh"}} />
+      <Contact/>
+      <Skills/>
+      <Experience />
       <Education />
-      <Skills />
-      <Languages />
-      <FrameworksAndTools />
-      <ResearchPublications />
-      <ProfessionalExperience />
       <Projects />
-      <Honors />
-      <Hobbies />
+      <Certifications />
+      <Achievements />
     </div>
   );
 }
