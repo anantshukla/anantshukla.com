@@ -54,7 +54,7 @@ function App() {
             <div className="skill-category">
               <h3>Languages</h3>
               <p>
-                Python, Java, JavaScript, TypeScript, Go, C\#, Erlang, Bash/Shell, SQL, PHP, Groovy, Erlang, HTML/CSS
+                Python, Java, JavaScript, TypeScript, Go, C#, Erlang, Bash/Shell, SQL, PHP, Groovy, Erlang, HTML/CSS
               </p>
             </div>
             <div className="skill-category">
@@ -64,13 +64,13 @@ function App() {
               </p>
             </div>
             <div className="skill-category">
-              <h3>Tools & Cloud Platforms</h3>
+              <h3>Tools and Cloud Platforms</h3>
               <p>
                 Azure, AWS, GCP, Kubernetes, Docker, Databricks, Jenkins, Terraform, TFS/Azure DevOps, Git, JIRA, Figma
               </p>
             </div>
             <div className="skill-category">
-              <h3>Database & Other Tools</h3>
+              <h3>Databases and Other Tools</h3>
               <p>
                 SQL Server, Postgres, MySQL, Cassandra, MongoDB, Neo4j, Apache Spark, Dask, Hadoop, REST, gRPC
               </p>
@@ -95,8 +95,8 @@ function App() {
             <p>Tata Consultancy Services | Bangalore, India</p>
             <p className="date">Aug 2020 — Nov 2022</p>
             <ul>
-              <li>Engineered Industrial IoT products for the life science industry, serving as Developer, Site Reliability Engineer & Team Lead.</li>
-              <li>Designed REST APIs, PySpark jobs, and services for tasks like IoT telemetry data ingestion, anomaly alarm-alerts, OTA for IoT edge devices, and health check/monitoring services across on-premises & cloud environments using Python, NodeJS, GoLang, and .NET.</li>
+              <li>Engineered Industrial IoT products for the life science industry, serving as Developer, Site Reliability Engineer and Team Lead.</li>
+              <li>Designed REST APIs, PySpark jobs, and services for tasks like IoT telemetry data ingestion, anomaly alarm-alerts, OTA for IoT edge devices, and health check/monitoring services across on-premises and cloud environments using Python, NodeJS, GoLang, and .NET.</li>
               <li>Revamped existing IoT solutions to improve scalability and availability through microservice design using Kafka, Azure IoT PaaS solutions, Kubernetes, and enhanced data management practices like batch processing and cold storage migration.</li>
               <li>Spearheaded a DevOps transformation by implementing CI/CD pipelines through Jenkins and orchestrating deployments on Kubernetes while automating and streamlining processes like DNS and certificate management within Kubernetes.</li>
             </ul>
@@ -147,7 +147,7 @@ function App() {
             <p>
               <span className="label">Paper:</span> <a href="https://anantshukla.com/files/Context_Aware_Bitrate_Ladder.pdf">Link</a>
             </p>
-            <p>Solution that considers content & context to create dynamic bitrate ladders. Developed using TensorFlow and trained on a GPU cluster.</p>
+            <p>Solution that considers content and context to create dynamic bitrate ladders. Developed using TensorFlow and trained on a GPU cluster.</p>
           </div>
           <div className="project">
             <h3>Early Identification and Classification of Plant Disease with a Comparative Analysis of Various CNN Models</h3>
@@ -221,7 +221,7 @@ function App() {
               <span className="achievement-headings">Silver Medal:</span> Swarm Optimization of Multiple UAVs for Resource Allocation in HADR Operations. <a href="https://anantshukla.com/files/Swarm_Optimization_UAV_HADR.pdf">Paper</a>
             </li>
             <li>
-              <span className="achievement-headings">Silver Medal:</span> Design and Architecture of an Amphibious Reconnaissance Vehicle for Aerial & Underwater Operations. The project was funded by DRDO, SRMIST, and won the Most Innovative Solution Award in DRDO Robotics and Unmanned Systems 2018.  <a href="https://anantshukla.com/files/Amphibious_Reconnaissance_Vehicle_DRDO.pdf">Paper</a>
+              <span className="achievement-headings">Silver Medal:</span> Design and Architecture of an Amphibious Reconnaissance Vehicle for Aerial and Underwater Operations. The project was funded by DRDO, SRMIST, and won the Most Innovative Solution Award in DRDO Robotics and Unmanned Systems 2018.  <a href="https://anantshukla.com/files/Amphibious_Reconnaissance_Vehicle_DRDO.pdf">Paper</a>
             </li>
             <li>
               <span className="achievement-headings">Best in Technical Design Award:</span> AUVSI Student Unmanned Aerial System 2019 held in Patuxent River Naval Airbase, MD, USA.  <a href="https://anantshukla.com/files/SUAS_2019_CDR_SRM.pdf">Report</a>
