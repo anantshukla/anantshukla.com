@@ -93,7 +93,7 @@ function App() {
           <div className="experience-item">
             <h3>Systems Engineer</h3>
             <p>Tata Consultancy Services | Bangalore, India</p>
-            <p className="date">Aug 2020 — Nov 2022</p>
+            <p className="date">Aug 2020 — Present</p>
             <ul>
               <li>Engineered Industrial IoT products for the life science industry, serving as Developer, Site Reliability Engineer and Team Lead.</li>
               <li>Designed REST APIs, PySpark jobs, and services for tasks like IoT telemetry data ingestion, anomaly alarm-alerts, OTA for IoT edge devices, and health check/monitoring services across on-premises and cloud environments using Python, NodeJS, GoLang, and .NET.</li>
